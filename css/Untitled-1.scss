@@ -1,0 +1,25 @@
+$ColorWhite: white;
+$ColorGreen: rgba(95, 184, 72, 1);
+$BgColorGreen: linear-gradient(180deg, #64BB47 0%, #2C9553 100%);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "";
+    src: url();
+}
+
+body{
+    background-color: $ColorWhite;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
