@@ -195,7 +195,7 @@ header nav ul li a {
   grid-row: span 2;
 }
 .aboutUs .aboutUs-wraper .aboutUs-images img {
-  height: -webkit-fill-available;
+  height: 100%;
 }
 
 .foods {
